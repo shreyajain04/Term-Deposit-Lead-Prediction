@@ -1,0 +1,57 @@
+customer_id	                                                              object	
+unique identifier for each customer (primary key)
+
+customer_age	                                                            float64	
+age of the customer
+
+job_type	                                                                object	
+type of job
+
+marital	                                                                  object	
+marital status
+
+education                                                                	object	
+highest educational qualification
+
+default																																		object	
+delinquency status
+
+balance																																		float64	
+current account balance
+
+housing_loan																															object	
+flag indicating customers with home loan
+
+personal_loan																															object	
+flag indicating customers with personal loan
+
+communication_type																												object	
+mode of communication of the previous campaign
+
+day_of_month																															int64	
+day of month when customer was approached
+
+month																																			object	
+month when customer was approached
+
+last_contact_duration																											int64	
+days since last approached
+
+num_contacts_in_campaign																									float64	
+number of times contacted during recent campaign
+
+num_contacts_prev_campaign																								int64	
+number of times contacted during previous campaign
+
+prev_campaign_outcome																											object	
+previous campaign outcome
+
+term_deposit_subscribed																										int64	
+term deposit subsciption status 
+
+
+
+
+
+
+
